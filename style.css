@@ -6,7 +6,7 @@ body {
     max-width: 800px;
     margin: 40px auto;
     padding: 0 10px;
-    font: 14px/1.5 monospace;
+    font: 15px/1.7 monospace;
     color: #444
 }
 
@@ -74,5 +74,5 @@ img#me {
     height: 300px;
     border: 1px solid #000;
     float: left;
-    margin: 10px 20px 10px 0;
+    margin: 10px 20px 0 0;
 }
